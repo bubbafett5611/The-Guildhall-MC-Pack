@@ -11,7 +11,7 @@
 		#Enable Nickel Worldgen(Overworld)
 		nickel = true
 		#Enable Osmium Worldgen(Overworld)
-		osmium = false
+		osmium = true
 		#Enable Platinum Worldgen(Overworld)
 		platinum = true
 		#Enable Silver Worldgen(Overworld)
