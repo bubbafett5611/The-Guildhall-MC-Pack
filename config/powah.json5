@@ -51,12 +51,12 @@
 				"nitro": 40000000
 			},
 			"transfer_rates": {
-				"starter": 80,
-				"basic": 320,
-				"hardened": 800,
-				"blazing": 3200,
-				"niotic": 8000,
-				"spirited": 32000,
+				"starter": 160,
+				"basic": 400,
+				"hardened": 1600,
+				"blazing": 4000,
+				"niotic": 16000,
+				"spirited": 80000,
 				"nitro": 160000
 			},
 			"generation_rates": {
@@ -80,12 +80,12 @@
 				"nitro": 40000000
 			},
 			"transfer_rates": {
-				"starter": 80,
-				"basic": 320,
-				"hardened": 800,
-				"blazing": 3200,
-				"niotic": 8000,
-				"spirited": 32000,
+				"starter": 160,
+				"basic": 400,
+				"hardened": 1600,
+				"blazing": 4000,
+				"niotic": 16000,
+				"spirited": 80000,
 				"nitro": 160000
 			},
 			"generation_rates": {
@@ -109,12 +109,12 @@
 				"nitro": 500000000
 			},
 			"transfer_rates": {
-				"starter": 1000,
-				"basic": 4000,
-				"hardened": 10000,
-				"blazing": 40000,
-				"niotic": 100000,
-				"spirited": 400000,
+				"starter": 5000,
+				"basic": 20000,
+				"hardened": 50000,
+				"blazing": 200000,
+				"niotic": 500000,
+				"spirited": 1000000,
 				"nitro": 2000000
 			},
 			"generation_rates": {
