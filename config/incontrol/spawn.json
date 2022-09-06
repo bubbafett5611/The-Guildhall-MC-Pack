@@ -1,0 +1,8 @@
+[
+  {
+    "passive": false,
+    "dimension": "mining_dimension:mining",
+    "onjoin": true,
+    "result": "deny"
+  }
+]
