@@ -1,0 +1,8 @@
+[
+  {
+    "hostile": true,
+    "spawner": false,
+    "dimension": "mining_dimension:mining",
+    "result": "deny"
+  }
+]
