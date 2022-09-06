@@ -4,5 +4,17 @@
     "spawner": false,
     "dimension": "mining_dimension:mining",
     "result": "deny"
+  },
+  {
+    "passive": true,
+    "dimension": "mining_dimension:mining",
+    "onjoin": true,
+    "result": "deny"
+  },
+  {
+    "mob": "quark:forgotten",
+    "dimension": "mining_dimension:mining",
+    "onjoin": true,
+    "result": "deny"
   }
 ]
